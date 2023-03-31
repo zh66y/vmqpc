@@ -3,7 +3,7 @@
 
 ==========软件下载地址===========
 
-监控下载地址：https://www.123pan.com/s/fjalVv-99CQ3.html  
+监控下载地址：https://www.123pan.com/s/fjalVv-3ACQ3.html  
 微信版本下载：https://www.123pan.com/s/fjalVv-WACQ3.html  
 
 =============================
