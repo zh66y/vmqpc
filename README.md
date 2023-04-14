@@ -88,5 +88,6 @@ Qq交流群：784641711
 |向**    |ZFB     |8.88    |
 |刘*     |VX      |15.00   |  
 |张**    |VX      |10.00   |  
+|张**    |VX      |20.00   |  
 
 ![DNN0MM0MDDY {J9EP_)GSRX](https://user-images.githubusercontent.com/62324707/229338464-6f46d251-ab52-4dff-bd58-087e1695cf62.png)
