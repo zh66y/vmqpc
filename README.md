@@ -77,11 +77,11 @@ CPU占用率低！
 首先一个完整的安装包是这样的！  
 ![image](https://user-images.githubusercontent.com/62324707/229336836-685487b1-ccbb-45ce-a5cd-528d252dc635.png)  
 接下来是手把手教学！  
-+ 单商户  
++ V免签  
 1.打开【微信登陆破解.exe】与【智慧66云-微信监控.exe】或【智慧66云-支付宝监控.exe】  
 2.如果是首次运行按照以下操作  
-3.切换模式：单商户  
-![image](https://user-images.githubusercontent.com/62324707/229337107-a67cd649-c3d2-4ef6-a03e-e329b5e221fb.png)  
+3.切换模式：V免签
+![image](https://github.com/zh66y/vmqpc/assets/62324707/e90df662-cd7e-48f3-985a-64b7c6f09d29)   
 4.填写个人信息，账号建议是QQ号，不易忘记！    
 5.点击【保存信息】  
 6.点击【注册账号】  
