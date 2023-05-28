@@ -91,8 +91,8 @@ CPU占用率低！
 ![image](https://user-images.githubusercontent.com/62324707/229337323-f2a80bdb-8f44-4a75-9cd9-eacadd91084d.png)    
 10.日志中出现已连接表示成功.  
 ![image](https://user-images.githubusercontent.com/62324707/229337355-9fcd6196-42cb-4516-8f81-e730a7fa62ae.png)  
-+ 多商户  
-1.多商户账号密码填写的不是QQ信息是免签的用户登陆账号，非后台账号(admib)  ，也就是你的网址的user页面的登陆账号信息  
++ V免签二开    
+1.V免签二开账号密码填写的不是QQ信息是V免签二开的用户登陆账号，非后台账号(admib)  ，也就是你的网址的user页面的登陆账号信息  
 # 疑难解答  
 1.为什么我的日志中没有【服务器已连接】？  
 答：放置监控的文件夹缺少文件【add.dll】 
