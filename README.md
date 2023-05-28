@@ -117,7 +117,9 @@ CPU占用率低！
 |张**     |VX      |10.00   |  
 |张**     |VX      |20.00   |  
 |赞助咖啡  |VX      |50.00   | 
-|来自**雯  |zfb      |5.00   | 
-|admin  |zfb      |200   | 
+|来自**雯  |zfb     |5.00   | 
+|admin  |zfb       |200    |     
+|WgYin  |zfb      |28.88   | 
+|小泽er  |VX      |10.88   |   
 
 ![DNN0MM0MDDY {J9EP_)GSRX](https://user-images.githubusercontent.com/62324707/229338464-6f46d251-ab52-4dff-bd58-087e1695cf62.png)
